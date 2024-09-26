@@ -2,7 +2,8 @@
 asm_workshop 31/02/2024
 
 ## Requirements **IMPORTANT**
-- avoir gcc nasm, et ld sur son pc
+- nasm
+- ld
 
 ## Aide
 
